@@ -1,0 +1,11 @@
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\bin\Debug\formularios.exe.config
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\bin\Debug\formularios.exe
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\bin\Debug\formularios.pdb
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\obj\Debug\formularios.csproj.AssemblyReference.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\obj\Debug\formularios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\obj\Debug\formularios.Properties.Resources.resources
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\obj\Debug\formularios.csproj.GenerateResource.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\obj\Debug\formularios.csproj.CoreCompileInputs.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\obj\Debug\formularios.exe
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\obj\Debug\formularios.pdb
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\formularios\formularios\obj\Debug\formularios.Form1.resources
